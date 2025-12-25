@@ -1,6 +1,8 @@
 
 # Hi 👋 I'm Ruthik!
 
+🚀 Flutter Developer | 🎓 Student | 💡 Tech Explorer
+
 I’m a B.Tech (AI & ML) student at Aditya University, passionate about building Flutter applications, exploring Machine Learning, and solving real-world problems through programming.
 
 ## 🛠️ Skills & Tools
