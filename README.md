@@ -29,6 +29,9 @@ I’m a B.Tech (AI & ML) student at Aditya University, passionate about building
 - ⚡ Love solving problems
 - 👯 I’m looking to collaborate on exciting new projects, share insights, or help you navigate the world of Flutter development and app publishing
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SumanthJallipalli&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ## 📫 Connect with Me
 - 💼 LinkedIn:[LinkedIn](https://www.linkedin.com/in/sumanth-jallipalli-a36174291/)
