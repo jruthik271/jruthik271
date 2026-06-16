@@ -74,7 +74,7 @@ I am a **B.Tech Artificial Intelligence and Machine Learning** undergraduate stu
       <h3>🛠️ Mecha-Connect</h3>
       <p>On-demand roadside assistance mobile platform streamlining emergency support for vehicle breakdowns. Integrates real-time background GPS tracking using Google Maps API.</p>
       <p>
-        <a href="https://github.com/jruthik271/mecha-connect"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="GitHub Repo"/></a>
+        <a href="https://github.com/jruthik271/mecha_connect"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="GitHub Repo"/></a>
       </p>
       <p>
         <code>Flutter</code> <code>Dart</code> <code>Google Maps API</code> <code>Geolocation</code>
